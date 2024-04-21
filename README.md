@@ -14,7 +14,7 @@
 
 🎯 **My Mission:** Create cool stuffs using my skills.
 
-📫 Let's Connect: Feel free to drop me a message for chats about software testing, coding, or anything techy! ([LinkedIn](https://in.linkedin.com/in/kwishna))
+📫 Let's Connect: Feel free to drop me a message for chats about software testing, coding, or anything techy!
 
 - 🔭 I’m currently working on Applications using Large Language Models. 
 - 🌱 I’m currently learning Machine Learning 
