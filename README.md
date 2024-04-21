@@ -20,7 +20,6 @@
 - 🌱 I’m currently learning Machine Learning 
 - 💬 Ask me about Software Test Automation 
 - 📫 How to reach me: LinkedIn 
-- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Like to cook food for myself🤣 
 
 
