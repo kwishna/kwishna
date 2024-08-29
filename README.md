@@ -1,8 +1,7 @@
 ### Hi there 👋, My name is Krishna Kumar Singh
 #### | Software Engineer💻 | Eternal Learner 🌱 | Always Coding, Always Curious🤔 | Tech Explorer 🚀|
-👋 Hello Visitor,
 
-🧑‍💻 I'm a Software Test Engineer who loves to code and is always eager to learn new things. I find joy in exploring the ins and outs of software development and testing while also diving into different technologies.
+🧑‍💻 I'm an SDET who loves to code and is always eager to learn new things. I find joy in exploring the ins and outs of software development and testing while also diving into different technologies.
 
 💡 **Current Focus:** Digging deep into AI/ML (Large Language Models) to boost my skills and understanding.
 
@@ -21,7 +20,6 @@
 - 💬 Ask me about Software Test Automation 
 - 📫 How to reach me: LinkedIn 
 - ⚡ Fun fact: Like to cook food for myself🤣 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kwishna)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kwishna/)  
 
